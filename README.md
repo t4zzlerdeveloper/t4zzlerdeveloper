@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img
-src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+src="https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://appwrite.io/assets/logomark/logo.svg" title="Appwrite" alt="Appwrite" width="40" height="40"/>&nbsp;
 
 </div>
