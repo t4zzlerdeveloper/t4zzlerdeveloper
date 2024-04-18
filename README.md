@@ -4,6 +4,8 @@
 - 🧑‍🏫 I'm studying Computer Science
 - 🔭 I’m currently working on [Rubium](https://github.com/t4zzlerdeveloper/rubium)
 
+<h3 align="left">GitHub Stats 📊</h3>
+
 [![t4zzlerdeveloper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=t4zzlerdeveloper&show_icons=true&theme=aura_dark&hide_border=true)](https://github.com/t4zzlerdeveloper)
 
 
