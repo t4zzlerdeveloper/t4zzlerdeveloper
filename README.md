@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm t4zzlerdeveloper</h1>
 <h3 align="center">A passionate Full-stack developer from the Milky Way 🛸</h3>
 
-- 🧑‍🏫 I'm studying Computer Science
-- 🔭 I’m currently working on [Rubium](https://github.com/t4zzlerdeveloper/rubium)
+<p align="center">
+  🌱 Constantly learning and coding, fueled by caffeine ☕ <br>
+  🧑‍🏫 Studying Computer Science and working on innovative projects
+</p>
+
+- 🔭 **Currently working on**: [Rubium](https://github.com/t4zzlerdeveloper/rubium)
+- 🚀 **Exploring**: Web Development, AI, and Cloud Computing
 
 <h3 align="left">GitHub Stats 📊</h3>
 
