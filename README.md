@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm t4zzlerdeveloper</h1>
+<h1 align="center">Hi 👋, I'm Miguel Nunes</h1>
 <h3 align="center">A passionate Full-stack developer from the Milky Way 🛸</h3>
 
 <p align="center">
@@ -6,8 +6,8 @@
   🧑‍🏫 Studying Computer Science and working on innovative projects
 </p>
 
-- 🔭 **Currently working on**: [Rubium](https://github.com/t4zzlerdeveloper/rubium)
-- 🚀 **Exploring**: Web Development, AI, and Cloud Computing
+- 🔭 **Helping startups build their ideas** at [Fraqtory](https://github.com/Fraqtory)
+- 🚀 **Exploring**: AI, Security and Cloud Computing
 
 <h3 align="left">GitHub Stats 📊</h3>
 
